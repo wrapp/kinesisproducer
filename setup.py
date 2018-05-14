@@ -2,7 +2,7 @@ from setuptools import setup
 
 setup(
     name="kinesis-producer",
-    version="0.0.1a1",
+    version="0.0.1",
     packages=['wrapp', 'wrapp.kinesisproducer'],
     author="Fredrik Håård",
     author_email="fredrik@metallapan.se",
